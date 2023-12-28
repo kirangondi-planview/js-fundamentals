@@ -13,7 +13,7 @@
             ],
             // "console":"integratedTerminal", //This one is needed to debug the project in command line. //js-m5/project
             // "program": "${file}"
-            "program": "${workspaceFolder}\\js-m5\\switch.js"
+            "program": "${workspaceFolder}\\js-m6\\example\\loop-flow.js"
         }
     ]
 }
