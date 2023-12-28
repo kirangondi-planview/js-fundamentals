@@ -11,8 +11,9 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            //"program": "${workspaceFolder}\\index.js"
-            "program": "${workspaceFolder}\\js-m3\\booleans.js"
+            // "console":"integratedTerminal", //This one is needed to debug the project in command line. //js-m5/project
+            // "program": "${file}"
+            "program": "${workspaceFolder}\\js-m5\\switch.js"
         }
     ]
 }
